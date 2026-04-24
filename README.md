@@ -1,2 +1,3 @@
-<img width="1816" height="866" alt="kafka" src="https://github.com/user-attachments/assets/3c4c3544-5539-4546-8781-bc6dca2c5e71" />
+<img width="1235" height="290" alt="image" src="https://github.com/user-attachments/assets/9cf05f85-d585-41e7-940f-e6d4cd7d4266" />
+
 # Introduction To Kafka

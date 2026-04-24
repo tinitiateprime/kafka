@@ -1,4 +1,8 @@
-<img width="1235" height="290" alt="kafka" src="https://github.com/user-attachments/assets/a6876456-7d84-4ccf-b191-9bb1180d146a" />
+<img width="1235" height="290" alt="kafka" src="https://github.com/user-attachments/assets/8c3f9c84-87c3-4ddd-98af-269e8db0725e" />
 
 
-# Introduction To Kafka
+
+# Kafka
+&copy; TINITIATE.COM
+
+## Introduction to Kafka
